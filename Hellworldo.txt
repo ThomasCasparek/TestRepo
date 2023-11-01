@@ -1,2 +1,5 @@
 
 Hi
+git stage
+git commit
+git push or get pull
